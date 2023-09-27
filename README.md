@@ -2,13 +2,13 @@
 
 Deep analysis and exhuastive research on [question answering model using ensembling techniques][https://scholar.google.com/citations?user=CnED4RIAAAAJ&hl=en]
 
-<p><b>
+
 This paper aims to provide an empirical study and comparative analysis of the well-known Deep Learning Models on the Stanford Question Answering Dataset (SQuAD). Keeping in mind the enormous data in the current times, SQuAD Dataset serves as a benchmark for question answering tasks. It aims to solve the issues pertaining machine comprehension and huge context-based question answering tasks. This is a challenging problem in NLP as it requires the model to understand the context and use its reasoning abilities to accurately respond to questions. In this study, Natural Language Processing, Exploratory Data Analysis and Deep Learning Models like Bidirectional LSTMs (BiLSTM), BERT, DistilBERT, BiDAF, Ensemble Learning, Backpropagation neural networks and Optimization techniques have been incorporated for achieving the highest efficiency. Finally, a comparison of each model’s performance based on evaluation metrics like accuracy, precision and F1-score has been done.
-  </b>
-</p>
 
 
-<p>
+
+
+
   In this project, we explored different models for question
 answering on the Squad dataset, including BiLSTM, BIDAF,
 BERT, and DistilBERT. We evaluated these models based on
@@ -41,7 +41,7 @@ in question-answering on the Squad dataset, according to the
 findings of our study. For this work, BIDAF and DistilBERT
 are useful models, and ensembling can boost performance even
 more
-</p>
+
 <img src="accuracy.jpeg" height=200 width=200 style="vertical-align:middle;margin:50 0 ">
 
 

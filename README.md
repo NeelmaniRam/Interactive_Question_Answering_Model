@@ -44,7 +44,7 @@ more
 
 <img src="accuracy.jpeg" height=200 width=200 style="vertical-align:middle;margin:50 0 ">
 
-![accuracy graph](accuracy.jpeg)
+![accuracy.jpeg](accuracy.jpeg)
 
 
 
